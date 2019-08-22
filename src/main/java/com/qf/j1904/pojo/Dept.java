@@ -7,6 +7,6 @@ package com.qf.j1904.pojo;
  */
 public class Dept {
 
-    private int deptno;//这是先到缓存
+    private int deptno;//这是先到缓存你看
     private String dname;
 }
