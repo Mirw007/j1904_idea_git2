@@ -8,7 +8,7 @@ package com.qf.j1904.pojo;
 public class Dept {
 
 
-    private int deptno;//这是先到缓存你看
+    private int deptno;//啦啦啦
 
     private String dname;//这是那么子hj
 }
